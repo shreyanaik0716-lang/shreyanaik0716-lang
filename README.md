@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Naik</h1>
-<h3 align="center">🚀 Full Stack Developer | Python Developer | React Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Python Developer | Frontend Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00B894&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;React+Developer;Always+Learning+New+Technologies" />
